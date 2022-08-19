@@ -17,7 +17,8 @@ Grupo 1
 </div>
 
 ## <center>Topologias</center>
-#### 1.Cesar
+#### 1.César Alejandro Sosa Enríquez - 201800555 
+![https://ik.imagekit.io/peu7i3asaiq/TOPOLOGIA_61NDdANoK.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660886730431](https://ik.imagekit.io/peu7i3asaiq/TOPOLOGIA_61NDdANoK.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660886730431)
 
 #### 2.Angel
 
@@ -35,8 +36,9 @@ Grupo 1
 
 ## <center>Configuracion de las vpc</center>
 
-#### 1.Cesar
+#### 1.César Alejandro Sosa Enríquez - 201800555 
 
+![https://ik.imagekit.io/peu7i3asaiq/VPC_sP1uCVef4.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660886728229](https://ik.imagekit.io/peu7i3asaiq/VPC_sP1uCVef4.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660886728229)
 
 #### 2.Angel
 
@@ -52,8 +54,13 @@ Grupo 1
 
 
 ## <center>Configuracion de clouds</center>
-#### 1.Cesar
-
+#### 1.César Alejandro Sosa Enríquez - 201800555 
+## Cloud Bryan
+![https://ik.imagekit.io/peu7i3asaiq/CLOUD_BRYAN_1NUHw91zp.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660886727518](https://ik.imagekit.io/peu7i3asaiq/CLOUD_BRYAN_1NUHw91zp.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660886727518)
+## Cloud Angel
+![https://ik.imagekit.io/peu7i3asaiq/CLOUD_ANGEL_wd9Nw_Gkr.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660886726628](https://ik.imagekit.io/peu7i3asaiq/CLOUD_ANGEL_wd9Nw_Gkr.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660886726628)
+## Cloud Ricardo
+![https://ik.imagekit.io/peu7i3asaiq/CLOUD_RICARDO_hqDMUEOTf.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660886729181](https://ik.imagekit.io/peu7i3asaiq/CLOUD_RICARDO_hqDMUEOTf.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660886729181)
 #### 2.Angel
 Cloud Cesar
 
@@ -98,6 +105,17 @@ Cloud Bryan
 ## <center>Ping entre los host</center>
 #### 1.Cesar
 
+## Ping con Bryan
+
+![https://ik.imagekit.io/peu7i3asaiq/PING_BRYAN_hCMhx8hFV.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660886182752](https://ik.imagekit.io/peu7i3asaiq/PING_BRYAN_hCMhx8hFV.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660886182752)
+
+## Ping con Angel
+
+![https://ik.imagekit.io/peu7i3asaiq/PING_ANGEL_w-tFduAq_.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660886182754](https://ik.imagekit.io/peu7i3asaiq/PING_ANGEL_w-tFduAq_.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660886182754)
+
+## Ping con Ricardo
+
+![https://ik.imagekit.io/peu7i3asaiq/ping_ricardo_e7xgYsNfd.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660886183247](https://ik.imagekit.io/peu7i3asaiq/ping_ricardo_e7xgYsNfd.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660886183247)
 
 #### 2.Angel
 
