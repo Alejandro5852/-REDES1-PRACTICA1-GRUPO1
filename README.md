@@ -147,12 +147,12 @@ Ping con Bryan(192.168.11.30)
 ### Angel
 
 
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/xh3JBVHIdtA)
+[![Watch the video](https://img.favpng.com/19/2/8/computer-icons-symbol-royalty-free-logo-png-favpng-P7VKTpy96ug9kL41NpVbEFnzf.jpg)](https://youtu.be/xh3JBVHIdtA)
 
 ### Bryan
 
-[![Watch the video]([https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg](https://www.youtube.com/watch?v=QEfRl1m6ouU&ab_channel=BryanMendez))](https://www.youtube.com/watch?v=QEfRl1m6ouU&ab_channel=BryanMendez)
+[![Watch the video](https://img.favpng.com/19/2/8/computer-icons-symbol-royalty-free-logo-png-favpng-P7VKTpy96ug9kL41NpVbEFnzf.jpg)](https://www.youtube.com/watch?v=QEfRl1m6ouU&ab_channel=BryanMendez)
 
 ### Ricardo
 
-[![Alt text](https://img.youtube.com/vi/3RFAX3CbSGA/0.jpg)](https://youtu.be/YHSJRbqTbBo)
+[![Watch the video](https://img.favpng.com/19/2/8/computer-icons-symbol-royalty-free-logo-png-favpng-P7VKTpy96ug9kL41NpVbEFnzf.jpg)](https://youtu.be/YHSJRbqTbBo)
