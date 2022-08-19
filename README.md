@@ -105,15 +105,15 @@ Cloud Bryan
 ## <center>Ping entre los host</center>
 #### 1.Cesar
 
-## Ping con Bryan
+## Ping con Bryan (192.168.11.30)
 
 ![https://ik.imagekit.io/peu7i3asaiq/PING_BRYAN_hCMhx8hFV.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660886182752](https://ik.imagekit.io/peu7i3asaiq/PING_BRYAN_hCMhx8hFV.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660886182752)
 
-## Ping con Angel
+## Ping con Angel (192.168.11.20)
 
 ![https://ik.imagekit.io/peu7i3asaiq/PING_ANGEL_w-tFduAq_.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660886182754](https://ik.imagekit.io/peu7i3asaiq/PING_ANGEL_w-tFduAq_.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660886182754)
 
-## Ping con Ricardo
+## Ping con Ricardo (192.168.11.40)
 
 ![https://ik.imagekit.io/peu7i3asaiq/ping_ricardo_e7xgYsNfd.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660886183247](https://ik.imagekit.io/peu7i3asaiq/ping_ricardo_e7xgYsNfd.png?ik-sdk-version=javascript-1.4.3&updatedAt=1660886183247)
 
