@@ -147,12 +147,12 @@ Ping con Bryan(192.168.11.30)
 ### Angel
 
 
-[![Watch the video](https://w7.pngwing.com/pngs/981/939/png-transparent-hyperlink-computer-icons-direct-link-others-miscellaneous-text-logo.png)](https://youtu.be/xh3JBVHIdtA)
+[![Watch the video](https://cdn-icons.flaticon.com/png/512/2504/premium/2504965.png?token=exp=1660880984~hmac=46eef390095c03118d770512f8262e38)](https://youtu.be/xh3JBVHIdtA)
 
 ### Bryan
 
-[![Watch the video](https://w7.pngwing.com/pngs/981/939/png-transparent-hyperlink-computer-icons-direct-link-others-miscellaneous-text-logo.png)](https://www.youtube.com/watch?v=QEfRl1m6ouU&ab_channel=BryanMendez)
+[![Watch the video](https://cdn-icons.flaticon.com/png/512/2504/premium/2504965.png?token=exp=1660880984~hmac=46eef390095c03118d770512f8262e38)](https://www.youtube.com/watch?v=QEfRl1m6ouU&ab_channel=BryanMendez)
 
 ### Ricardo
 
-[![Watch the video](https://w7.pngwing.com/pngs/981/939/png-transparent-hyperlink-computer-icons-direct-link-others-miscellaneous-text-logo.png)](https://youtu.be/YHSJRbqTbBo)
+[![Watch the video](https://cdn-icons.flaticon.com/png/512/2504/premium/2504965.png?token=exp=1660880984~hmac=46eef390095c03118d770512f8262e38)](https://youtu.be/YHSJRbqTbBo)
