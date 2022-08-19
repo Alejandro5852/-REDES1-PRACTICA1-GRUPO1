@@ -151,7 +151,7 @@ Ping con Bryan(192.168.11.30)
 
 ### Bryan
 
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://www.youtube.com/watch?v=QEfRl1m6ouU&ab_channel=BryanMendez)
+[![Watch the video]([https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg](https://www.youtube.com/watch?v=QEfRl1m6ouU&ab_channel=BryanMendez))](https://www.youtube.com/watch?v=QEfRl1m6ouU&ab_channel=BryanMendez)
 
 ### Ricardo
 
