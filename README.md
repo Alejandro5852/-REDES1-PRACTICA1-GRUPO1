@@ -162,6 +162,9 @@ Ping con Bryan(192.168.11.30)
 
 ## <center>Videos</center>
 ### Cesar 
+## Ping con Angel (192.168.11.20)
+[![Watch the video](https://ik.imagekit.io/peu7i3asaiq/Untitled_video___Hecho_con_Clipchamp__3__4U6nJ6FnE.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1660888469434)](https://ik.imagekit.io/peu7i3asaiq/Untitled_video___Hecho_con_Clipchamp__3__4U6nJ6FnE.mp4?ik-sdk-version=javascript-1.4.3&updatedAt=1660888469434)
+
 ### Angel
 
 
