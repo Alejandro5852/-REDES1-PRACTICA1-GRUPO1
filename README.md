@@ -140,3 +140,19 @@ Ping con Angel(192.168.11.20)
 Ping con Bryan(192.168.11.30)
 
 ![https://github.com/Alejandro5852/-REDES1-PRACTICA1-GRUPO1/blob/main/src/RICARDO/PING_BRYAN.png](https://github.com/Alejandro5852/-REDES1-PRACTICA1-GRUPO1/blob/main/src/RICARDO/PING_BRYAN.png)
+
+
+## <center>Videos</center>
+### Cesar 
+### Angel
+
+
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/xh3JBVHIdtA)
+
+### Bryan
+
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://www.youtube.com/watch?v=QEfRl1m6ouU&ab_channel=BryanMendez)
+
+### Ricardo
+
+[![Alt text](https://img.youtube.com/vi/3RFAX3CbSGA/0.jpg)](https://youtu.be/YHSJRbqTbBo)
